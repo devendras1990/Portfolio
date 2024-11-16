@@ -32,7 +32,7 @@ export async function POST(req: NextRequest, res: NextResponse) {
     text: `User submitted: ${email}`, // plain text body
     html: `
       <h1>New Email Submission</h1>
-      <p>Hi Kapil, ${firstName} ${lastName} has Submmited an Email.</p>
+      <p>Hi Devendra, ${firstName} ${lastName} has Submmited an Email.</p>
       <p>Email: <strong>${email}</strong></p>
       <p>Phone No: <strong>${countryCode} ${phone}</strong></p>
     `, // HTML body

@@ -14,7 +14,7 @@ export default function ThreeDCard() {
           translateZ="50"
           className="text-xl font-bold text-neutral-600 dark:text-white"
         >
-          Hi, I’m Kapil Kumawat!
+          Hi, I’m Devendra Singh Bisht!
         </CardItem>
         <CardItem
           as="p"

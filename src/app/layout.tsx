@@ -7,10 +7,10 @@ import { SpeedInsights } from "@vercel/speed-insights/next"
 
 
 export const metadata: Metadata = {
-  title: "Kapil Kumawat - Portfolio",
-  description: "Welcome to the portfolio of Kapil Kumawat. Explore my work in web design, frontend development, ReactJS, NextJS, and Figma.",
-  publisher: "Kapil Kumawat",
-  keywords: "Kapil Kumawat, portfolio, web design, frontend development, ReactJS, NextJS, Figma",
+  title: "Devendra Singh Bisht - Portfolio",
+  description: "Welcome to the portfolio of Devendra Singh Bisht. Explore my work in web design, frontend development, ReactJS, NextJS, and Figma.",
+  publisher: "Devendra Singh Bisht",
+  keywords: "Devendra Singh Bisht, portfolio, web design, frontend development, ReactJS, NextJS, Figma",
 };
 
 
