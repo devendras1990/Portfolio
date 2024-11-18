@@ -104,13 +104,13 @@ export default function InputBox() {
           </select>
         </div>
         <div className="col-span-2">
-          <Input id="phone" className="remove-arrow" placeholder="9672520566" type="number"  value={formData.phone} onChange={(e:any)=>setFormData((formData)=>({...formData, phone:e.target.value }))} />
+          <Input id="phone" className="remove-arrow" placeholder="8502012865" type="number"  value={formData.phone} onChange={(e:any)=>setFormData((formData)=>({...formData, phone:e.target.value }))} />
         </div>
         </div>
         </LabelInputContainer>
         <LabelInputContainer className="mb-4">
           <Label htmlFor="email">Email Address</Label>
-          <Input id="email" className="transition" style={error ? { boxShadow: '0px 0px 10px 2px #ff000096', border: '1px solid #ff000096' } : {}} placeholder="kapilkumawat.work@gmail.com" type="email"  value={formData.email} onChange={(e:any)=>{setFormData((formData)=>({...formData, email:e.target.value })), setError(false)}} />
+          <Input id="email" className="transition" style={error ? { boxShadow: '0px 0px 10px 2px #ff000096', border: '1px solid #ff000096' } : {}} placeholder="kdevbisht1990@gmail.com" type="email"  value={formData.email} onChange={(e:any)=>{setFormData((formData)=>({...formData, email:e.target.value })), setError(false)}} />
         </LabelInputContainer>
 
         <button

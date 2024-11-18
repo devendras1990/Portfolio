@@ -37,13 +37,13 @@ export default function ThreeDCard() {
             <div className="aspect-square h-10 w-10 rounded-full bg-gray-200 dark:bg-neutral-800 flex items-center justify-center relative">
               <IconPhoneCall className="h-5 w-5 text-neutral-500 dark:text-neutral-300" />
             </div>
-              <a href="tel:919672520566">+91 9672520566</a>
+              <a href="tel:918502012865" className="text-white">+91 8502012865</a>
           </div>
           <div className="flex items-center gap-3 pt-5">
             <div className="aspect-square h-10 w-10 rounded-full bg-gray-200 dark:bg-neutral-800 flex items-center justify-center relative">
               <IconMail  className="h-5 w-5 text-neutral-500 dark:text-neutral-300" />
             </div>
-              <a href="mailto:kapilkumawat.work@gmail.com">kapilkumawat.work@gmail.com</a>
+              <a href="mailto:kdevbisht1990@gmail.com"  className="text-white">kdevbisht1990@gmail.com</a>
           </div>
         </div>
       </CardBody>

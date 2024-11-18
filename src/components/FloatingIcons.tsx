@@ -15,7 +15,7 @@ export default function FloatingIcons() {
       icon: (
         <IconBrandLinkedin className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://www.linkedin.com/in/kapil-kumawat-a10417236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      href: "#",
     },
 
     {
@@ -23,28 +23,28 @@ export default function FloatingIcons() {
       icon: (
         <IconBrandInstagram className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://www.instagram.com/_kapilkumawat/",
+      href: "#",
     },
     {
       title: "Whatsapp",
       icon: (
         <IconBrandWhatsapp className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://wa.me/919672520566",
+      href: "#",
     },
     {
       title: "Twitter",
       icon: (
         <IconBrandX className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://x.com/ikapilkumawat?t=zslRVY7t4NxYi5IMfdHXSw&s=09",
+      href: "#",
     },
     {
       title: "GitHub",
       icon: (
         <IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://github.com/Kapil-js",
+      href: "#",
     },
   ];
   return (
