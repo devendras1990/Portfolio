@@ -4,10 +4,10 @@ import { AnimatedTooltip } from "@/components/ui/animated-tooltip";
 const people = [
   {
     id: 1,
-    name: "ReactJs",
-    designation: "Fronend Development",
+    name: "Adobe XD",
+    designation: "UI/UX Design",
     image:
-      "/images/skills/reactjs.png",
+      "/images/skills/xd.webp",
   },
   {
     id: 2,
