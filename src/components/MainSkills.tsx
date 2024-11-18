@@ -12,14 +12,14 @@ const people = [
   {
     id: 2,
     name: "Adobe illustrator",
-    designation: "UI/UX Design",
+    designation: "Iconography design",
     image:
       "/images/skills/ai.png",
       },
   {
     id: 3,
     name: "Figma",
-    designation: "UI/UX Design",
+    designation: "Wireframe & Prototype",
     image:
       "/images/skills/figma.png",
   },
