@@ -11,10 +11,10 @@ const people = [
   },
   {
     id: 2,
-    name: "NextJs",
-    designation: "Full Stack Development",
+    name: "Adobe illustrator",
+    designation: "UI/UX Design",
     image:
-      "/images/skills/nextjs.png",
+      "/images/skills/ai.png",
       },
   {
     id: 3,
@@ -25,10 +25,10 @@ const people = [
   },
   {
     id: 4,
-    name: "SCSS",
-    designation: "Web Design",
+    name: "Adobe After Effects",
+    designation: "Animation",
     image:
-      "/images/skills/scss.png",
+      "/images/skills/after-effects.png",
   },
   {
     id: 5,
