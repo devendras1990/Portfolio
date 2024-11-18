@@ -76,14 +76,14 @@ const testimonialsCode = [
   },
   {
     quote:
-      "Experienced with SCSS, I streamline and enhance CSS with variables, nested rules, and modular styles, improving maintainability and scalability in web design.",
-    image: "/images/skills/scss.png",
+      "My Skilled in LottieFiles, a tool for creating and implementing lightweight, high-quality animations in web and mobile applications. Proficient in using Lottie to integrate vector-based animations..",
+    image: "/images/skills/ltti.png",
     title: "SCSS",
   },
   {
     quote:
-      "Proficient in JavaScript, I develop dynamic and interactive web applications, implement complex features, and solve problems with versatile scripting capabilities.",
-    image: "/images/skills/javascript.png",
+      "in Adobe After Effects, with expertise in creating dynamic animations, motion graphics, and visual effects.",
+    image: "/images/skills/after-effects.png",
     title: "JavaScript",
   },
   // {
@@ -92,36 +92,36 @@ const testimonialsCode = [
   //   image: "/images/skills/typescript.png",
   //   title: "TypeScript",
   // },
-  {
-    quote:
-      "Experienced with ReactJS, I build efficient and scalable user interfaces, leverage component-based architecture, and create responsive web applications.",
-    image: "/images/skills/reactjs.png",
-    title: "ReactJS",
-  },
-  {
-    quote:
-      "Proficient in NextJS, I develop server-side rendered React applications, optimize performance, and implement static site generation for faster and more reliable web experiences.",
-    image: "/images/skills/nextjs.png",
-    title: "NextJS",
-  },
+  // {
+  //   quote:
+  //     "Experienced with ReactJS, I build efficient and scalable user interfaces, leverage component-based architecture, and create responsive web applications.",
+  //   image: "/images/skills/reactjs.png",
+  //   title: "ReactJS",
+  // },
+  // {
+  //   quote:
+  //     "Proficient in NextJS, I develop server-side rendered React applications, optimize performance, and implement static site generation for faster and more reliable web experiences.",
+  //   image: "/images/skills/nextjs.png",
+  //   title: "NextJS",
+  // },
   // {
   //   quote:
   //     "Skilled in Material UI, I create modern and consistent user interfaces with pre-designed components and a responsive grid system, enhancing user experience.",
   //   image: "/images/skills/material-ui.png",
   //   title: "Material UI",
   // },
-  {
-    quote:
-      "I leverage Tailwind CSS to create responsive, modern web applications with a focus on utility-first design, ensuring clean code and seamless user experiences. My projects highlight customization and efficiency, from personal portfolios to dynamic dashboards.",
-    image: "/images/skills/tailwind.png",
-    title: "Tailwind CSS ",
-  },
-  {
-    quote:
-      "Proficient in Bootstrap, I utilize its responsive grid system and pre-built components to quickly design and develop mobile-first, visually appealing websites.",
-    image: "/images/skills/bootstrap.png",
-    title: "Bootstrap",
-  }
+  // {
+  //   quote:
+  //     "I leverage Tailwind CSS to create responsive, modern web applications with a focus on utility-first design, ensuring clean code and seamless user experiences. My projects highlight customization and efficiency, from personal portfolios to dynamic dashboards.",
+  //   image: "/images/skills/tailwind.png",
+  //   title: "Tailwind CSS ",
+  // },
+  // {
+  //   quote:
+  //     "Proficient in Bootstrap, I utilize its responsive grid system and pre-built components to quickly design and develop mobile-first, visually appealing websites.",
+  //   image: "/images/skills/bootstrap.png",
+  //   title: "Bootstrap",
+  // }
 ];
 
 
