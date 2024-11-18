@@ -78,13 +78,13 @@ const testimonialsCode = [
     quote:
       "My Skilled in LottieFiles, a tool for creating and implementing lightweight, high-quality animations in web and mobile applications. Proficient in using Lottie to integrate vector-based animations..",
     image: "/images/skills/ltti.png",
-    title: "SCSS",
+    title: "Lottie Animation",
   },
   {
     quote:
       "in Adobe After Effects, with expertise in creating dynamic animations, motion graphics, and visual effects.",
     image: "/images/skills/after-effects.png",
-    title: "JavaScript",
+    title: "After-Effects",
   },
   // {
   //   quote:
