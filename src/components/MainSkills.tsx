@@ -37,6 +37,13 @@ const people = [
     image:
       "/images/skills/photoshop.png",
   },
+  {
+    id: 6,
+    name: "LottieFiles",
+    designation: "Animation Design",
+    image:
+      "/images/skills/ltti.png",
+  },
 ];
 
 export default function MainSkills() {
